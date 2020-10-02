@@ -1,7 +1,7 @@
 # IMAP Email Library
 IMAP Library -  To Manage Email Opration in PHP
 
-PHP already has a nice [IMAP extension] (https://www.php.net/manual/en/book.imap.php) for working with email. 
+PHP already has a nice <a href="https://www.php.net/manual/en/book.imap.php" target="_blank">**IMAP extension**</a> for working with email. 
 The extension needs to be installed and enabled before moving forward. 
 The core functionality is all there, but the specifics on how to use it aren’t necessarily all that clear.
 
