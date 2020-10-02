@@ -15,7 +15,6 @@ Here’s a PHP class I put together to do some basic operations on an IMAP Inbox
 - PHP IMAP Extension should be enabled in your PHP installation
 - IMAP should be enabled in your Gmail settings.
 
-# How to enable IMAP in PHP
-# How to Enable IMAP in XAMPP
+# How to enable IMAP in PHP - XAMPP 
 
 IMAP is not enabled by default in Xampp distribution, so to enable it go to the file "\xampp\php\php.ini" and search for ";extension=php_imap.dll" and by removing the beginning semicolon at the line ,it's get enabled ,it should be: extension=php_imap.dll.
